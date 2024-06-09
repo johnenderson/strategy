@@ -15,3 +15,6 @@
 * Java 21
 * Spring Boot
 * Design Pattern Strategy
+
+
+Developed by [Build & Run](https://github.com/buildrun-tech)
